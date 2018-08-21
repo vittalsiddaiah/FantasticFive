@@ -1,2 +1,2 @@
-# FuntasticFive
+# FantasticFive
 Data Analytics
