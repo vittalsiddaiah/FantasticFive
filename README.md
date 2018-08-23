@@ -1,14 +1,14 @@
-# Chronic Disease Indicator (CDI) Analysis
+# Wine Review Analysis
 
 ## Goal:
-Analyze the chronic disease data to identify and to correlate the trends across demographics
+Analyze the wine review to identify and to correlate the trends across regions or types of wine.
  
 ## Sources :
-  Data.gov https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi/resource/f21d6667-9a21-4a17-a5d7-fabfdedc3d6d
+      Kaggle https://www.kaggle.com/zynicide/wine-reviews#winemag-data-130k-v2.csv
  
 ## Team:
 * [Varsha Ramachandran](varsharcn@gmail.com)
 * [Anastasiia lozano]()
 * [Jagan Munagala](jagan1301@gmail.com)
-* [Jacob Kaplan]()
+* [Jacob Kaplan](j.kaplan814@yahoo.com)
 * [Vittal Siddaiah](vittal.siddaiah@gmail.com)
