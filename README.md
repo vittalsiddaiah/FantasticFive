@@ -15,9 +15,9 @@ Analyze the wine review to identify and to correlate the trends across regions o
 
 ## Preliminary Questions:
 1. How does the price/score of wine relate to the region it's produced in?
-    How do different wines compare in the same region?
-    Are some vineyards more successful than other in the same region?
-    Do regions produce mostly the same type of wine?
+    *How do different wines compare in the same region?
+    *Are some vineyards more successful than other in the same region?
+    *Do regions produce mostly the same type of wine?
 2. Correlation between number of wineries in the region and the average score of the wine.
 3. How does the type of wine relate to its average score or price.
 4. Correlation between vintage and price/score of the wine.
