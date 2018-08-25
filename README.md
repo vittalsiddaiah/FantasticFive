@@ -18,6 +18,7 @@ Analyze the wine review to identify and to correlate the trends across regions o
     *  How do different wines compare in the same region?
     *  Are some vineyards more successful than other in the same region?
     *  Do regions produce mostly the same type of wine?
+    *  Heat map of wine quality
 2. Correlation between number of wineries in the region and the average score of the wine.
 3. How does the type of wine relate to its average score or price.
 4. Correlation between vintage and price/score of the wine.
