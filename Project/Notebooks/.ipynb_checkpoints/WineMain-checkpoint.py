@@ -33,17 +33,7 @@
     "##############################################################################\n",
     "rawWineDF.to_csv('../Data/WineData.csv')\n",
     "wineDF = rawWineDF[['country', 'description', 'designation', 'points', 'price', 'province', 'region_1', 'title', 'variety', 'winery', 'Year']]\n",
-    "wineDF = wineDF.rename(columns={'region_1': 'region'})\n",
-    "\n",
-    "wineDF.head()\n",
-    "\n",
-    "temp = wineDF.country.dropna()\n",
-    "\n",
-    "wineDF.country.unique()\n",
-    "\n",
-    "temp.unique()\n",
-    "\n",
-    "len(wineDF) -len(temp)"
+    "wineDF = wineDF.rename(columns={'region_1': 'region'})"
    ]
   },
   {
