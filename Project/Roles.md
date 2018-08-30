@@ -19,3 +19,8 @@
 4. Correlation between vintage and price/score of the wine.  [Vittal Siddaiah](vittal.siddaiah@gmail.com)
 5. Do certain wineries produce higher scoring/priced wines on average? [Anastasiia lozano](alexis.filimonova@gmail.com)
     *  Correlation between number of wines reviewed at a specific winery and price/score.
+    
+##Task List    
+1. Table Cleanup [Vittal Siddaiah](vittal.siddaiah@gmail.com)
+2. Steps of Cleanup to be depicted in the Notebook [Vittal Siddaiah](vittal.siddaiah@gmail.com)
+3. Create the baseline in git for clean checkout of data
