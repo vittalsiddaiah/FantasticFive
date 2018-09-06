@@ -63,11 +63,13 @@ USA has most recorded ratings accounting for 42% of total count of ratings follo
 * For this dataset, average wine rating for most wine varietals is between 85-89 (68,497 ratings accounting for 52%. Wines from major producers like USA, France, Italy, Spain and Portugal fall in this category. 
 * Caveat: There are some outliers in the 95-100 rating range (2417 ratings accounting for 1.9%) suggesting that these wine varietals are most coveted and are among the most expensive.
 
-
+ ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Wine%20rating%20Distribution.png?raw=true)
  
 ## Does having higher number of wineries/vineyards translate to higher wine ratings?
 * Even though there are significantly higher number of wineries in USA, the average wine rating is lower when compared to some other countries. However, the quality of wine produced here is attested to by the higher number of ratings/ upvotes recorded. The same applies to the French and Italian wines.
 * Caveat: Despite having significantly low number of ratings in comparison, England still maintains the highest average rating which could suggest production of decent quality wine. But, more datapoints are required to make this conclusion. 
+ 
+ ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Avg_Rating_byCountry.png?raw=true)
  
 ## How does the type of wine relate to its average score or price?
 
@@ -76,19 +78,17 @@ There are 700+ different varieties of Wines.
 The higher the price higher the score.
 
 Most priced wines by Category:
-
 * Champagne Blend
 * Nebbiolo
 * Cabernet Sauvignon
 * Pinot Noir
+ ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Prices_Variety_300.png)
 
 ## Highest scored wines by Category:
 
 o	Sangiovese Grosso has the highest score in 300 wines Category (Sangiovese is a red Italian wine grape variety that derives its name from the Latin sanguis Jovis, "the blood of Jupiter")
 o	Nebbiolo has the highest score has the highest score in 1000 wines Category. (Nebbiolo, or Nebieul is an Italian red wine grape variety predominantly associated with its native Piedmont region, where it makes the Denominazione di Origine Controllata e Garantita wines of Barolo, Barbaresco, Roero, Gattinara and Ghemme)
  
- ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/winetypes-pirce-score_1000.png)
- ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Prices_Variety_300.png)
  ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Scores_Variety_300.png)
  
 ## How does vintage affect wine rating and price?
