@@ -82,14 +82,16 @@ Most priced wines by Category:
 * Nebbiolo
 * Cabernet Sauvignon
 * Pinot Noir
- ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Prices_Variety_300.png)
+ ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Prices_Variety_300.png?raw=true)
 
 ## Highest scored wines by Category:
 
 o	Sangiovese Grosso has the highest score in 300 wines Category (Sangiovese is a red Italian wine grape variety that derives its name from the Latin sanguis Jovis, "the blood of Jupiter")
 o	Nebbiolo has the highest score has the highest score in 1000 wines Category. (Nebbiolo, or Nebieul is an Italian red wine grape variety predominantly associated with its native Piedmont region, where it makes the Denominazione di Origine Controllata e Garantita wines of Barolo, Barbaresco, Roero, Gattinara and Ghemme)
  
- ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Scores_Variety_300.png)
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_Wine_Scores_Variety_300.png?raw=true)
+ 
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/winetypes-pirce-score_1000.png?raw=true)
  
 ## How does vintage affect wine rating and price?
 The major trend we expect to see when analyzing the vintage is that prices and ratings will increase and decrease proportionally. If a year had a particularly good climate, both its rating and price should increase.
