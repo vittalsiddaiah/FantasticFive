@@ -1,6 +1,3 @@
-# Wine Review Analysis Roles and Responsiblities
-
- 
 ## Team:
 * [Varsha Ramachandran](varsharcn@gmail.com)
 * [Anastasiia lozano](alexis.filimonova@gmail.com)
@@ -8,26 +5,7 @@
 * [Jacob Kaplan](j.kaplan814@yahoo.com)
 * [Vittal Siddaiah](vittal.siddaiah@gmail.com)
 
-## Preliminary Questions:
-1. How does the price/score of wine relate to the region it's produced in? [Jacob Kaplan](j.kaplan814@yahoo.com)
-    *  How do different wines compare in the same region?
-    *  Are some vineyards more successful than other in the same region?
-    *  Do regions produce mostly the same type of wine?
-    *  Heat map of wine quality
-2. Correlation between number of wineries in the region and the average score of the wine. [Varsha Ramachandran](varsharcn@gmail.com)
-3. How does the type of wine relate to its average score or price. [Jagan Munagala](jagan1301@gmail.com)
-4. Correlation between vintage and price/score of the wine.  [Vittal Siddaiah](vittal.siddaiah@gmail.com)
-5. Do certain wineries produce higher scoring/priced wines on average? [Anastasiia lozano](alexis.filimonova@gmail.com)
-    *  Correlation between number of wines reviewed at a specific winery and price/score.
-    
-## Task List    
-1. Table Cleanup [Vittal Siddaiah](vittal.siddaiah@gmail.com)
-2. Steps of Cleanup to be depicted in the Notebook [Vittal Siddaiah](vittal.siddaiah@gmail.com)
-3. Create the baseline in git for clean checkout of data
-
-
-
-
+### Analysis of Wine
 
 ## Do certain regions create a higher quality wine?	
 We found that while most of the regions with a statistically significant amount of wines reviewed hovered around a score of 85-87, some regions slightly distinguished themselves with higher or lower ratings.
@@ -55,7 +33,7 @@ The wineries with the highest average wine score are:
 * Lynmar (USA, California)
 * Williams Selyem (USA, California).
 However these wineries have an average wine price in a diapason from 60 to 80$ per bottle. And it’s in the middle of a price range.
- 
+(https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_wine_scores.png?raw=true)
 
 ## What are the wineries with the most expensive wines on average?
 Top 5 wineries with the highest average wine price are:
