@@ -43,28 +43,28 @@ Top 5 wineries with the highest average wine price are:
 * Chanson Pere et Fils (France)
 * Jean-Luc and Paul Aegerter (France)
 And, surprisingly, they all are located in France.
- 
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Average_wine_prices.png?raw=true)
 
 
 ## What is the correlation between a price and a score of a wine?
 While there is a clear trend: the higher an average price the higher a rating of a wine, it could be explained by subjective appreciation, it means people tend to rank higher more expensive wines. As the pleasure people get from consuming wine depends both on its intrinsic qualities such as taste and smell and external attributes such as price and presentation. 
- 
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Prices_scores_correlation.png?raw=true)
 
 ## How does wine rating differ by country?
-USA has most recorded ratings accounting for 42% of total count of ratings followed by France and Italy. 
- 
+USA has most recorded ratings accounting for 42% of total count of ratings followed by France and Italy.  
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Total_Wine_Rating_byCountry.png?raw=true)
 
 ## Which provinces produce most wine (top 30)?
 •	USA tops the list with most provinces that produce wine. The top five provinces are California, Washington, Oregon, New York and Virginia which account for about 41% of total production. 
 •	French provinces of Bordeaux, Burgundy, Alsace, Loire Valley, Champagne, Beaujolais, Southwest France, Provence and Rhone Valley account for 16% while the Italian provinces of Tuscany, Piedmont, Veneto, Northeastern Italy, Sicily & Sardinia, Southern Italy and Central Italy comprise about 14.5% of wine production worldwide.   
- 
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Top30producers.png?raw=true)
 
 ## What is the average rating for most wines?
 * For this dataset, average wine rating for most wine varietals is between 85-89 (68,497 ratings accounting for 52%. Wines from major producers like USA, France, Italy, Spain and Portugal fall in this category. 
 * Caveat: There are some outliers in the 95-100 rating range (2417 ratings accounting for 1.9%) suggesting that these wine varietals are most coveted and are among the most expensive.
 
- ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Wine%20rating%20Distribution.png?raw=true)
- 
+![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/Wine%20rating%20Distribution.png?raw=true)
+ ![alt text](https://github.com/vittalsiddaiah/FantasticFive/blob/master/Project/src/images/WineRatings.png?raw=true)
 ## Does having higher number of wineries/vineyards translate to higher wine ratings?
 * Even though there are significantly higher number of wineries in USA, the average wine rating is lower when compared to some other countries. However, the quality of wine produced here is attested to by the higher number of ratings/ upvotes recorded. The same applies to the French and Italian wines.
 * Caveat: Despite having significantly low number of ratings in comparison, England still maintains the highest average rating which could suggest production of decent quality wine. But, more datapoints are required to make this conclusion. 
